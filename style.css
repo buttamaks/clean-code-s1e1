@@ -31,7 +31,7 @@ body {
 .main {
   display: block;
   width: 500px;
-  margin: 0 auto 0;
+  margin: 20px auto 0;
 }
 
 .task {
@@ -51,7 +51,7 @@ ul {
 }
 
 li,
-h3 {
+.section-title {
   list-style: none;
 }
 
@@ -75,7 +75,7 @@ button:hover {
 }
 
 /* Heading */
-h3 {
+.section-title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
